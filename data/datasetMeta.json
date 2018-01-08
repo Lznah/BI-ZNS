@@ -85,13 +85,13 @@ var meta = {
 	},
 	"crosses" : {
 		"type" : "number",
-		"comment" : "Number of (upright) crosses",
-		"question" : "How many crosses are on the flag?",
+		"comment" : "Synonyms: Upstanding or vertical",
+		"question" : "How many <a>(upright) crosses</a> are on the flag?",
 		"czechTranslate" : "Kolik je na vlajce křížů?"
 	},
 	"saltires" : {
 		"type" : "boolean",
-		"comment" : "Number of diagonal crosses",
+		"comment" : "0 if diagonal cross absent, 1 if diagonal cross present on the flag",
 		"question" : "Is there a diagonal cross on the flag?",
 		"czechTranslate" : "Je na vlajce diagonální kříž?"
 
