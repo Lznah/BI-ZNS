@@ -85,8 +85,8 @@ var meta = {
 	},
 	"crosses" : {
 		"type" : "number",
-		"comment" : "Synonyms: Upstanding or vertical",
-		"question" : "How many <a>(upright) crosses</a> are on the flag?",
+		"comment" : "Synonyms: Upstanding or vertical crosses. Diagonal crosses do not count.",
+		"question" : "How many <a>upright crosses</a> are on the flag?",
 		"czechTranslate" : "Kolik je na vlajce křížů?"
 	},
 	"saltires" : {
