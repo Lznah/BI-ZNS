@@ -3,6 +3,13 @@ var meta = {
 		"type" : "id",
 		"comment" : "Name of the country concerned"
 	},
+	"landmass" : { 
+		"type" : "set",
+		"values" : ["North America", "South America", "Europe", "Africa", "Asia", "Oceania"],
+		"comment" : "landmass",
+		"question" : "Which continent is the country on?",
+		"czechTranslate" : "Na kterém kontinentu se daný stát nachází?"
+	},
 	"bars" : {
 		"type" : "number",
 		"comment" : "Number of vertical bars on the flag",

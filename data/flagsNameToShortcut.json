@@ -6,7 +6,6 @@ var flagsShortcuts = {
    "Angola" : "ao.png",
    "Antigua-Barbuda" : "ag.png",
    "Argentina" : "ar.png",
-   "Argentine" : "ar.png",
    "Armenia" : "am.png",
    "Australia" : "au.png",
    "Austria" : "at.png",
@@ -40,7 +39,7 @@ var flagsShortcuts = {
    "Croatia" : "hr.png",
    "Cuba" : "cu.png",
    "Cyprus" : "cy.png",
-   "Czechoslovakia" : "cz.png",
+   "Czech Republic" : "cz.png",
    "Congo" : "cd.png",
    "Denmark" : "dk.png",
    "Djibouti" : "dj.png",
@@ -191,5 +190,5 @@ var flagsShortcuts = {
    "Zambia" : "zm.png",
    "Zimbabwe" : "zw.png",
    "Yugoslavia" : "yugoslavia.png",
-   "USSR" : "ussr.png"
+   "Russia" : "ss.png"
 }
