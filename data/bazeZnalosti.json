@@ -1464,7 +1464,7 @@ var data = {
       "language": 5,
       "religion": 7,
       "bars": 0,
-      "stripes": 3,
+      "stripes": 0,
       "colours": 3,
       "red": 1,
       "green": 0,
